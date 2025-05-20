@@ -1,8 +1,10 @@
 <h1 align="left">Hi 👋! My name is Alejandro and I'm a Colombian web developer.</h1>
 
+
 ###
 
 <p align="left">🛜 currently working on my own website<br>🧑🏻‍🎓 studing software engineering at Universidad Distrital Francisco Jose de Caldas<br>👨‍💻 working as developer since 2018</p>
+<br><br>
 
 ###
 
@@ -38,11 +40,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
 </div>
+<br><br>
 
 
 ###
 
-<h2 align="left">🌐 Social media:</h2>
+<h1 align="left">🌐 Social media:</h1>
 
 ###
 
@@ -58,8 +61,11 @@
   </a>
   
 </div>
+<br><br>
 
 ###
+
+<h1 align="left">💡GitHub Commits: </h1>
 
 <br clear="both">
 
