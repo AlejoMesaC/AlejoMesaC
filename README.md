@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Alejandro and I'm a Colombian web developer.</h2>
+<h1 align="left">Hi 👋! My name is Alejandro and I'm a Colombian web developer.</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">💻 Tech Stack:</h2>
+<h1 align="left">💻 Tech Stack:</h1>
 
 ###
 
